@@ -7,4 +7,4 @@ var ViewModel = function() {
     this.incrementCounter = function () {};
 }
 
-ko.applyBindings(new ViewModel())
+ko.applyBindings(new ViewModel());
